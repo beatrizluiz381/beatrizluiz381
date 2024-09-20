@@ -1,4 +1,4 @@
 ## Hi there 👋
-meu ome é beatriz
+meu nome é beatriz
 
 estou estudando o alura
